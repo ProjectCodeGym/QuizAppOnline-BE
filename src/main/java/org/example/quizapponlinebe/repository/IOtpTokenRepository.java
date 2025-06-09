@@ -1,7 +1,6 @@
 package org.example.quizapponlinebe.repository;
 
 import org.example.quizapponlinebe.model.OtpToken;
-import org.example.quizapponlinebe.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
